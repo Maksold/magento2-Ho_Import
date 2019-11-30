@@ -16,7 +16,7 @@ The goal of the library is to be a swiss army knife for importing products in Ma
 ## Installation
 
 ```BASH
-composer config repositories.honl/magento2-import vcs git@github.com:ho-nl/magento2-Ho_Import.git
+composer config repositories.honl/magento2-import vcs git@github.com:Maksold/magento2-Ho_Import.git
 composer require honl/magento2-import
 ```
 
